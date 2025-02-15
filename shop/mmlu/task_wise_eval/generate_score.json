@@ -1,0 +1,8 @@
+[
+    {
+        "dataset_name": "cross_lingual_title_translation_ES",
+        "model": "/ssd1/models/Llama-3.2-3B-Instruct",
+        "average_score": 0.2429209775229962,
+        "cost_time": 475.19880390167236
+    }
+]

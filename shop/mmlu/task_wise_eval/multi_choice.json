@@ -1,0 +1,274 @@
+[
+    {
+        "dataset": "aspect_sentiment_based_review_selection",
+        "score": 0.8391812865497076,
+        "ill_format": 0,
+        "all_samples": 342,
+        "cost_time": 104.65336418151855,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "session_based_next_item_selection",
+        "score": 0.875,
+        "ill_format": 1,
+        "all_samples": 120,
+        "cost_time": 69.09134888648987,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "applicable_pt_selection",
+        "score": 0.527876631079478,
+        "ill_format": 1,
+        "all_samples": 843,
+        "cost_time": 213.31464004516602,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "related_keyword_intent_selection",
+        "score": 0.554806070826307,
+        "ill_format": 0,
+        "all_samples": 593,
+        "cost_time": 153.54808163642883,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "pt_selection_from_asin",
+        "score": 0.948780487804878,
+        "ill_format": 0,
+        "all_samples": 820,
+        "cost_time": 183.51949334144592,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "single_conversation_topic_selection",
+        "score": 0.9765886287625418,
+        "ill_format": 0,
+        "all_samples": 299,
+        "cost_time": 157.82615637779236,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "implicit_attribute_selection",
+        "score": 0.5760869565217391,
+        "ill_format": 1,
+        "all_samples": 552,
+        "cost_time": 120.92025804519653,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "aspect_based_sentiment_classification",
+        "score": 0.5873417721518988,
+        "ill_format": 0,
+        "all_samples": 395,
+        "cost_time": 106.18904447555542,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "attribute_synonym",
+        "score": 0.8620689655172413,
+        "ill_format": 0,
+        "all_samples": 290,
+        "cost_time": 63.31326699256897,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "product_numeric_reasoning",
+        "score": 0.46247464503042596,
+        "ill_format": 49,
+        "all_samples": 493,
+        "cost_time": 122.80864405632019,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "product_co_purchase",
+        "score": 0.8453333333333334,
+        "ill_format": 0,
+        "all_samples": 375,
+        "cost_time": 111.18811368942261,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "session_based_query_recommendation",
+        "score": 0.5833333333333334,
+        "ill_format": 0,
+        "all_samples": 60,
+        "cost_time": 33.1973021030426,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "query_product_type_selection",
+        "score": 0.8495934959349594,
+        "ill_format": 1,
+        "all_samples": 246,
+        "cost_time": 58.21199321746826,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "pt_synonyms",
+        "score": 0.8205128205128205,
+        "ill_format": 0,
+        "all_samples": 234,
+        "cost_time": 54.510063886642456,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "inapplicable_attributes",
+        "score": 1.0,
+        "ill_format": 0,
+        "all_samples": 205,
+        "cost_time": 50.45544123649597,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "multilingual_session_based_recommendation",
+        "score": 0.8983957219251337,
+        "ill_format": 0,
+        "all_samples": 374,
+        "cost_time": 198.73972606658936,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "review_helpfulness_selection",
+        "score": 0.4423963133640553,
+        "ill_format": 0,
+        "all_samples": 217,
+        "cost_time": 116.78284549713135,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "related_brands_selection",
+        "score": 0.6165413533834586,
+        "ill_format": 0,
+        "all_samples": 266,
+        "cost_time": 58.16006946563721,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "compatible_attribute_value_selection",
+        "score": 0.8784722222222222,
+        "ill_format": 5,
+        "all_samples": 1152,
+        "cost_time": 250.98945474624634,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "asin_compatibility",
+        "score": 0.851063829787234,
+        "ill_format": 2,
+        "all_samples": 141,
+        "cost_time": 47.03560543060303,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "unit_conversion",
+        "score": 0.23076923076923078,
+        "ill_format": 2,
+        "all_samples": 390,
+        "cost_time": 85.23593997955322,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "pt_complements",
+        "score": 0.7124542124542125,
+        "ill_format": 1,
+        "all_samples": 546,
+        "cost_time": 117.67330694198608,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "applicable_attribute_selection",
+        "score": 0.747737556561086,
+        "ill_format": 5,
+        "all_samples": 884,
+        "cost_time": 187.46823525428772,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "cross_lingual_entity_alignment",
+        "score": 0.7433333333333333,
+        "ill_format": 10,
+        "all_samples": 300,
+        "cost_time": 109.99216914176941,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "aspect_based_keyphrase_selection_from_reviews",
+        "score": 0.828125,
+        "ill_format": 1,
+        "all_samples": 384,
+        "cost_time": 108.03046894073486,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "attribute_value_extraction",
+        "score": 0.8698224852071006,
+        "ill_format": 0,
+        "all_samples": 338,
+        "cost_time": 75.36962294578552,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "product_keyphrase_selection",
+        "score": 0.8669527896995708,
+        "ill_format": 0,
+        "all_samples": 233,
+        "cost_time": 87.80682373046875,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "multilingual_keyphrase_selection",
+        "score": 0.7825,
+        "ill_format": 0,
+        "all_samples": 400,
+        "cost_time": 168.6688106060028,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "multilingual_query_product_semantic",
+        "score": 0.396875,
+        "ill_format": 0,
+        "all_samples": 320,
+        "cost_time": 81.01621222496033,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "reviews_overall_sentiment_selection",
+        "score": 0.41509433962264153,
+        "ill_format": 0,
+        "all_samples": 424,
+        "cost_time": 204.13900876045227,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "review_rating_prediction",
+        "score": 0.6376811594202898,
+        "ill_format": 200,
+        "all_samples": 552,
+        "cost_time": 139.25782918930054,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "query_product_semantic_classification",
+        "score": 0.2642857142857143,
+        "ill_format": 0,
+        "all_samples": 280,
+        "cost_time": 61.82839298248291,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "compatible_attribute_selection",
+        "score": 0.9166666666666666,
+        "ill_format": 2,
+        "all_samples": 1152,
+        "cost_time": 211.64748287200928,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "dataset": "commonsense",
+        "score": 0.9287257019438445,
+        "ill_format": 0,
+        "all_samples": 463,
+        "cost_time": 84.65324449539185,
+        "model": "/ssd1/models/Meta-Llama-3-8B-Instruct"
+    }
+]
