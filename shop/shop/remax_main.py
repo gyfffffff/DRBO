@@ -481,7 +481,7 @@ class MEAL:
                         if k not in actors_rewards2list.keys():
                             actors_rewards2list[k] = []
                         actors_rewards2list[k].append(v)
-                        total_actor_rewards[k] = total_actor_rewards.get(k, 0) + v
+                        total_actor_rewards[k] = total_actor_rewards.get(k, 0) + (v- self.indicator_dist[k]['average']) / self.indicator_dist[k]['std']
                         total_actor_count[k] = total_actor_count.get(k, 0) + 1
                     rewards_count += 1
                 experience.append(exp)
